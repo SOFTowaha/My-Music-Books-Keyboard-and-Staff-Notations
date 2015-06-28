@@ -15,3 +15,6 @@ Please see the sections on major scales and minor scales for a discussion of acc
 Tenor clef - commonly used by bass clef instruments when playing in their highest registers
 
 ![Tenor clef - commonly used by bass clef instruments when playing in their highest registers](https://cloud.githubusercontent.com/assets/4376131/8398090/59e26ec4-1e04-11e5-81ec-0d1c4393e489.JPG "Tenor clef - commonly used by bass clef instruments when playing in their highest registers")
+
+
+![Alto clef - used by the viola](https://cloud.githubusercontent.com/assets/4376131/8398104/aba795cc-1e04-11e5-91d3-e1df60c438eb.JPG "Alto clef - used by the viola")
