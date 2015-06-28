@@ -21,6 +21,7 @@ Alto clef - used by the viola
 ![Alto clef - used by the viola](https://cloud.githubusercontent.com/assets/4376131/8398104/aba795cc-1e04-11e5-91d3-e1df60c438eb.JPG "Alto clef - used by the viola")
 
 
-![](https://cloud.githubusercontent.com/assets/4376131/8398123/12ece82c-1e05-11e5-8cf0-e4d85bf90268.JPG "")
+![On Keyboard](https://cloud.githubusercontent.com/assets/4376131/8398123/12ece82c-1e05-11e5-8cf0-e4d85bf90268.JPG "")
+
 If the bottom note on this keyboard were C4, all note names bracketed (regardless
 of accidentals) would be in the same octave register (i.e. G4, B 4 and so forth).
