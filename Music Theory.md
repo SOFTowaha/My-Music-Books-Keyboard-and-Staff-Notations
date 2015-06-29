@@ -6,7 +6,7 @@
 ######![Circle of Fifths](https://github.com/SOFTowaha/My-Music-Books-Keyboard-and-Staff-Notations/blob/master/Music-Theory/Circle%20of%20Fifths.md)
 ######![Key Signature](https://github.com/SOFTowaha/My-Music-Books-Keyboard-and-Staff-Notations/blob/master/Music-Theory/Key%20Signature.md)
 ######![Intervals](https://github.com/SOFTowaha/My-Music-Books-Keyboard-and-Staff-Notations/blob/master/Music-Theory/Intervals.md)
-######![Rhythm](https://github.com/SOFTowaha/My-Music-Books-Keyboard-and-Staff-Notations/blob/master/Music-Theory/Rhythm.md)
+######![Rhythm](https://github.com/SOFTowaha/My-Music-Books-Keyboard-and-Staff-Notations/blob/master/Music-Theory/Rhythm.md) // under construction
 ######![Chords](https://github.com/SOFTowaha/My-Music-Books-Keyboard-and-Staff-Notations/blob/master/Music-Theory/Chords.md)
 ######![Lead Sheet Symbols](https://github.com/SOFTowaha/My-Music-Books-Keyboard-and-Staff-Notations/blob/master/Music-Theory/Lead%20Sheet%20Symbols.md)
 ######![Bass Position Symbol](https://github.com/SOFTowaha/My-Music-Books-Keyboard-and-Staff-Notations/blob/master/Music-Theory/Bass%20Position%20Symbol.md)
