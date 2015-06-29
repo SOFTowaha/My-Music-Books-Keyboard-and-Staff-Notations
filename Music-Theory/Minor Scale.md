@@ -69,3 +69,21 @@ half step (semitone).
 
 ![Scales](https://cloud.githubusercontent.com/assets/4376131/8402660/23b082c2-1e5f-11e5-915b-b18abeee4a16.JPG)
 
+If you need to construct a melodic minor scale (ascending form), follow the above steps and then raise
+scale degrees 6 and 7 by one half step (semitone)
+
+![Scales](https://cloud.githubusercontent.com/assets/4376131/8402679/49e89e3e-1e5f-11e5-99ca-ce85e2abdfcd.JPG)
+
+*Enharmonic Spellings*
+The third scale degree of a given minor scale is also the tonic of its relative major, and the sixth scale degree
+of a given major scale is also the tonic of its relative minor. It is important to go up 3 letter names when
+counting the half steps in order to avoid spelling a key enharmonically (in this example C = the 1st letter
+name, D = the 2nd letter name, and E = the 3rd letter name). Enharmonic notes sound the same and share
+the same piano key but have different spellings. For example, E and D share the same pitch and the same
+piano key but not the same spelling. E major (NOT D major) is the relative major of c minor. Because
+relative keys have the same key signatures, they will either both have sharps or both have flats.
+C minor is the relative minor of Eb major
+
+![scales](https://cloud.githubusercontent.com/assets/4376131/8402705/7f4fa216-1e5f-11e5-8f62-89e437411060.JPG)
+
+
