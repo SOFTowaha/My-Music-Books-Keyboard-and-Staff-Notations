@@ -34,5 +34,51 @@ It is important to memorize the intervals contained in the major scale.
 * Minor intervals made smaller by a half step (semitone) become diminished (i.e. m3 becomes a º3)
 * Minor intervals made larger by a half step (semitone) become major (i.e. m2 becomes a M2)
 
+This is a list of commonly encountered intervals. This list is NOT exhaustive.
+Interval name # of half steps (semitones)
 
+* P1 = 0 (unison)
+* m2 = 1
+* M2 = 2
+* +2 = 3
+* m3 = 3
+* M3 = 4
+* P4 = 5
+* +4 = 6 (tritone)
+* º5 = 6 (tritone)
+* P5 = 7
+* m6 = 8
+* M6 = 9
+* +6 = 10
+* m7 = 10
+* M7 = 11
+* P8 = 12 (octave)
+
+Just as there are enharmonic spellings for notes, there are enharmonic intervals as well
+
+
+The +6 sounds the same as a m7 but is spelled differently. An +6 above C is an A#, while a m7 above C
+is a Bb. A# and Bb are enharmonic and are both 10 half steps (semitones) above C, but one is counted
+as a sixth and the other as a seventh.
+
+Doubly diminished and doubly augmented intervals are possible but are not commonly encountered. We will
+not consider them during this course
+
+How to write an interval ABOVE a given note.
+* Example: Write a m6 above the given note.
+![m6](https://cloud.githubusercontent.com/assets/4376131/8403588/e194b684-1e67-11e5-8696-8ac9889f5d95.JPG)
+
+* 1) Find the note a sixth above E, using E as 1. The note a sixth above E is a C
+
+![C](https://cloud.githubusercontent.com/assets/4376131/8403583/e16f004c-1e67-11e5-98d9-70ce5f112e71.JPG)
+
+* 2) Think in the key of the bottom note (E major). C# is the sixth scale degree in the key of E major. C# is
+therefore a M6 above C. C is a m6 above C
+
+![C#](https://cloud.githubusercontent.com/assets/4376131/8403585/e1769b0e-1e67-11e5-89f2-832864827f3e.JPG)
+
+Sometimes you will be asked to write an interval above a note that is the tonic of an unusual key, such as F .
+You should temporarily remove the accidental and then add it back when you have determined the interval.
+* Example: Write a P5 above F 
+![P5](https://cloud.githubusercontent.com/assets/4376131/8403586/e17eab82-1e67-11e5-97aa-923d065185fa.JPG)
 
